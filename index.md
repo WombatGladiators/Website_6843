@@ -7,7 +7,7 @@ Ich bin Dumm, oder?
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+GG_Man
 
 # Header 1
 ## Header 2
