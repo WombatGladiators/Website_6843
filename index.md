@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Willkommen zu SaiCodes Website
 
-You can use the [editor on GitHub](https://github.com/WombatGladiators/Website_6843/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ich bin Dumm, oder?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### LOL
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
